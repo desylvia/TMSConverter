@@ -1,4 +1,3 @@
-#Buat error message
 library(shiny)
 library(shinyjs)
 
