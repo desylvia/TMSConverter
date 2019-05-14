@@ -5,7 +5,7 @@ library(hashids)
 library(stringr)
 library(data.table)
 
-server <- function(input, output) {
+server <- function(input, output){
   getData <- reactive({
     inFile <- input$file1
     
