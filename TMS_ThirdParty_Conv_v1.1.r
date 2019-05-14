@@ -6,7 +6,7 @@ library(excel.link)
 
 #UI Shiny
 ui = fluidPage(
-  titlePanel("AturDuit Converter"),
+  titlePanel("ThirdParty Converter"),
   
   #sidebar-layout
   sidebarLayout(
